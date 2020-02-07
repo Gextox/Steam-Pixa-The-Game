@@ -1,0 +1,12 @@
+#gameArea{
+    width: window.innerWidth;
+    height: window.innerHeight;
+}
+canvas{
+    background-color: red;
+}
+
+/* SKILLS BAR */
+#main_bar{
+    background-color: blue;
+}
